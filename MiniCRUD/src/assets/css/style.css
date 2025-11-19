@@ -1,0 +1,8 @@
+body { font-family: system-ui, sans-serif; margin: 2rem; }
+h1 { margin-bottom: .5rem; }
+.texto-explicativo { color: #666; margin-bottom: 1rem; }
+form { display: grid; gap: .5rem; max-width: 420px; margin-bottom: 1rem; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ddd; padding: .5rem .75rem; }
+#msg.ok { color: #0a0; }
+#msg.error { color: #a00; }

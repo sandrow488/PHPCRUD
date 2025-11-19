@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "sandro Monlau pegorao",
+        "email": "sandropegorarow48@gmail.com",
+        "password": "$2y$12$WefjQCDgTGVoBn6tFBE.vOGQoycLAGXJfp\/1rnCf5xFrJFrlOplBe",
+        "rol": "admin"
+    },
+    {
+        "nombre": "Sandro",
+        "email": "sandropegman@gmail.com",
+        "password": "$2y$12$j4VhI2xRb1tInC3YRetKXuyJcyqLQ9DJDiUH.SB8ygQXpl6WsDAMy",
+        "rol": "Admin"
+    },
+    {
+        "nombre": "PEPE",
+        "email": "pepe@gmail.com",
+        "password": "$2y$12$Fwg439XIvuWbHjCvI60jg.\/SalYBeaFFsrqgRU2WmfecefcOjDKpO",
+        "rol": "Admin"
+    },
+    {
+        "nombre": "sandro",
+        "email": "sandro@gmail.com",
+        "password": "$2y$12$t9VTVDQIurzKXjKbc.G7Au4hr9GYIWELKun5wCdAQMkfoC\/qLGweC",
+        "rol": "admin"
+    },
+    {
+        "nombre": "user",
+        "email": "user@gmail.com",
+        "password": "$2y$12$c5Kp7o0inbkfp0AsGya6a.kDmkpUVkDXy.4TZZMQFBtKlCTJl4qlC",
+        "rol": "user"
+    }
+]
